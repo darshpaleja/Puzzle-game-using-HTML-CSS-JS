@@ -35,3 +35,15 @@ button{
     border: 1px solid#ffd498;
     cursor: pointer;
 }
+
+h1{
+    color: #fbe9d0;
+}
+
+#print { 
+    font-family: Verdana, 
+         Tahoma, sans-serif; 
+    margin-top: -10px;
+    color: red; 
+    font-size: 20px; 
+}
